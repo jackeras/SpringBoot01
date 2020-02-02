@@ -1,7 +1,5 @@
 # Spring Boot学习（idea）
 
-
-
 （学习资料来自狂神教学视频、博客园等）
 
 #### 1.SpringBoot以及微服务思想的学习
@@ -25,7 +23,7 @@
 
 所谓微服务架构，就是打破之前all in one的架构方式，把每个功能元素独立出来。把独立出来的功能元素的动态组合，需要的功能元素才去拿来组合，需要多一些时可以整合多个功能元素。所以微服务架构是对功能元素进行复制，而没有对整个应用进行复制。
 
-![3173282649](F:\code\SpringBoot01\images\3173282649.png)
+![img](F:\code\SpringLearning-\image\3173282649.png)
 
 #### 2.HelloWorld
 
@@ -33,19 +31,13 @@
 
 new--->project---->Spring Initializr---->next---->
 
-![image-20200202202350146](F:\code\SpringBoot01\images\image-20200202202350146.png)
+![image-20200202202520347](F:\code\SpringLearning-\image\image-20200202202520347.png)
 
 ----Next---->
 
-![image-20200202202520347](F:\code\SpringBoot01\images\image-20200202202520347.png)
+![image-20200202202547942](F:\code\SpringLearning-\image\image-20200202202547942.png)
 
-
-
-![image-20200202202547942](F:\code\SpringBoot01\images\image-20200202202547942.png)
-
-
-
-![image-20200202202646637](F:\code\SpringBoot01\images\image-20200202202646637.png)
+![image-20200202202646637](F:\code\SpringLearning-\image\image-20200202202646637.png)
 
 ##### 2)HelloWorld项目新建步骤
 
