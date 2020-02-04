@@ -1,7 +1,5 @@
 # Spring Boot学习（idea）
 
-
-
 #### 1.SpringBoot以及微服务思想的学习
 
 简单来说就是SpringBoot其实不是什么新的框架，它默认配置了很多框架的使用方式，就像maven整合了所有的jar包，spring boot整合了所有的框架 。
