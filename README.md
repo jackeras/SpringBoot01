@@ -1,4 +1,4 @@
-# Spring Boot学习（idea）
+# Spring Boot的学习（idea）
 
 #### 1.SpringBoot以及微服务思想的学习
 
